@@ -19,7 +19,9 @@ status-website:
   navbar:
     - title: Uptime
       href: /upptime
-    - title: Status
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: App Status
       href: https://app.kaleidoglobe.com/status
 
 # Upptime also supports notifications, assigning issues, and more
