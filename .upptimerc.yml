@@ -12,15 +12,15 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://kaleidoglobe-public.s3-us-west-2.amazonaws.com/kaleidoglobe_logo.webp
+  name: KaleidoGlobe API
+  introTitle: "**KaleidoGlobe** is a cloud-native knowledge management solution built for businesses, research labs, and individuals."
+  introMessage: This page displays the live status of the KaleidoGlobe API
   navbar:
+    - title: Uptime
+      href: /upptime
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://app.kaleidoglobe.com/status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
