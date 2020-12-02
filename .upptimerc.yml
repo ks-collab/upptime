@@ -6,6 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: KaleidoGlobe API
     url: https://api.kaleidoglobe.com/status
+  - name: KaleidoGlobe API Staging
+    url: https://api-staging.kaleidoglobe.com/status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
