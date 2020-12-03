@@ -5,14 +5,30 @@
     "slug": "kaleido-globe-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 287
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 288,
+    "timeDay": 287,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288
   },
   {
     "name": "KaleidoGlobe API Staging",
     "url": "https://api-staging.kaleidoglobe.com/status",
     "slug": "kaleido-globe-api-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "time": 0
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 267,
+    "timeDay": 267,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267
   }
 ]
