@@ -5,14 +5,14 @@
     "slug": "kaleido-globe-api",
     "status": "up",
     "uptime": "100.00%",
-    "time": 288
+    "time": 287
   },
   {
     "name": "KaleidoGlobe API Staging",
     "url": "https://api-staging.kaleidoglobe.com/status",
     "slug": "kaleido-globe-api-staging",
     "status": "down",
-    "uptime": "11.18%",
+    "uptime": "0.00%",
     "time": 0
   }
 ]
