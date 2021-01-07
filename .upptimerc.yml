@@ -5,9 +5,9 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: KaleidoGlobe API
-    url: https://api.kaleidoglobe.com/status
+    url: https://api.kaleidoglobe.com/api/status
   - name: KaleidoGlobe API Staging
-    url: https://api-staging.kaleidoglobe.com/status
+    url: https://api-staging.kaleidoglobe.com/api/status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -23,8 +23,8 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: App Status
-      href: https://app.kaleidoglobe.com/status
+    - title: API Status
+      href: https://api.kaleidoglobe.com/api/status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
