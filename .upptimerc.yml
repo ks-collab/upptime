@@ -4,10 +4,10 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: KaleidoGlobe API
-    url: https://api.kaleidoglobe.com/api/status
-  - name: KaleidoGlobe API Staging
-    url: https://api-staging.kaleidoglobe.com/api/status
+  - name: KaleidoGlobe Production
+    url: https://app.kaleidoglobe.com/api/status
+  - name: KaleidoGlobe Dev/Staging
+    url: https://dev.kaleidoglobe.com/api/status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -17,14 +17,12 @@ status-website:
   logoUrl: https://kaleidoglobe-public.s3-us-west-2.amazonaws.com/kaleidoglobe_logo.webp
   name: KaleidoGlobe API
   introTitle: "**KaleidoGlobe** is a cloud-native knowledge management solution built for businesses, research labs, and individuals."
-  introMessage: This page displays the live status of the KaleidoGlobe API
+  introMessage: This page displays the live status of the KaleidoGlobe web application
   navbar:
     - title: Uptime
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-    - title: API Status
-      href: https://api.kaleidoglobe.com/api/status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
