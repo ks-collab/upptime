@@ -22,19 +22,19 @@
     "url": "https://dev.kaleidoglobe.com/api/status",
     "icon": "https://favicons.githubusercontent.com/dev.kaleidoglobe.com",
     "slug": "kaleido-globe-dev-staging",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1161,
-    "timeDay": 1161,
-    "timeWeek": 1161,
-    "timeMonth": 1161,
-    "timeYear": 1161,
+    "status": "up",
+    "uptime": "94.67%",
+    "uptimeDay": "94.67%",
+    "uptimeWeek": "94.67%",
+    "uptimeMonth": "94.67%",
+    "uptimeYear": "94.67%",
+    "time": 1341,
+    "timeDay": 1341,
+    "timeWeek": 1341,
+    "timeMonth": 1341,
+    "timeYear": 1341,
     "dailyMinutesDown": {
-      "2021-06-10": 0
+      "2021-06-10": 23
     }
   }
 ]
