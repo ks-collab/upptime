@@ -37,7 +37,7 @@
     "url": "https://dev.kaleidoglobe.com/api/status",
     "icon": "https://favicons.githubusercontent.com/dev.kaleidoglobe.com",
     "slug": "kaleido-globe-dev-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,6 +49,7 @@
     "timeMonth": 1814,
     "timeYear": 1445,
     "dailyMinutesDown": {
+      "2021-12-14": 0,
       "2021-11-08": 29,
       "2021-11-04": 20,
       "2021-11-03": 68,
