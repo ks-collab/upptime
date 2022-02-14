@@ -39,7 +39,7 @@
     "url": "https://dev.kaleidoglobe.com/api/status",
     "icon": "https://favicons.githubusercontent.com/dev.kaleidoglobe.com",
     "slug": "kaleido-globe-dev-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "33.26%",
     "uptimeWeek": "90.47%",
