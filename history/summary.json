@@ -4,7 +4,7 @@
     "url": "https://app.kaleidoglobe.com/api/status",
     "icon": "https://favicons.githubusercontent.com/app.kaleidoglobe.com",
     "slug": "kaleido-globe-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "94.09%",
     "uptimeWeek": "99.16%",
