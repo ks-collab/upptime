@@ -4,10 +4,12 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: KaleidoGlobe Production
-    url: https://app.kaleidoglobe.com/api/status
-  - name: KaleidoGlobe Dev/Staging
-    url: https://dev.kaleidoglobe.com/api/status
+  - name: Petal Cite Production
+    url: https://cite.petal.org/api/status
+  - name: Petal Cite Staging
+    url: https://cite-dev.petal.org/api/status
+  - name: Grobid service
+    url: http://grobid.petal.org:8070/api/isalive
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
