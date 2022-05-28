@@ -22,7 +22,7 @@
     "url": "https://cite-dev.petal.org/api/status",
     "icon": "https://favicons.githubusercontent.com/cite-dev.petal.org",
     "slug": "petal-cite-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2271,
     "timeMonth": 2284,
     "timeYear": 2284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-28": 0
+    }
   },
   {
     "name": "Grobid service",
