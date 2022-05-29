@@ -42,7 +42,7 @@
     "url": "http://grobid.petal.org:8070/api/isalive",
     "icon": "https://favicons.githubusercontent.com/grobid.petal.org",
     "slug": "grobid-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 512,
     "timeMonth": 508,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   }
 ]
