@@ -1,7 +1,7 @@
 url: http://grobid.petal.org:8070/api/isalive
 status: up
 code: 200
-responseTime: 614
-lastUpdated: 2022-06-04T23:01:26.928Z
+responseTime: 384
+lastUpdated: 2022-06-05T23:01:34.103Z
 startTime: Fri May 20 2022 15:17:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
