@@ -26,7 +26,7 @@
     "url": "https://cite-dev.petal.org/api/status",
     "icon": "https://favicons.githubusercontent.com/cite-dev.petal.org",
     "slug": "petal-cite-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "98.15%",
     "uptimeDay": "98.89%",
     "uptimeWeek": "99.84%",
@@ -38,6 +38,7 @@
     "timeMonth": 2446,
     "timeYear": 2392,
     "dailyMinutesDown": {
+      "2022-07-22": 0,
       "2022-07-21": 16,
       "2022-07-13": 10,
       "2022-07-12": 1090,
