@@ -75,7 +75,7 @@
     "url": "http://grobid.petal.org:8070/api/isalive",
     "icon": "https://icons.duckduckgo.com/ip3/grobid.petal.org.ico",
     "slug": "grobid-service",
-    "status": "up",
+    "status": "down",
     "uptime": "93.59%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "99.31%",
