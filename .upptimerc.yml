@@ -9,7 +9,7 @@ sites:
   - name: Petal Cite Staging
     url: https://cite-dev.petal.org/api/status
   - name: Grobid service
-    url: http://grobid.petal.org:8070/api/isalive
+    url: https://grobid.petal.org/api/isalive
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
