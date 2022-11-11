@@ -7,19 +7,27 @@ sites:
   - name: Petal Cite Production
     url: https://cite.petal.org/api/status
   - name: Petal Cite Staging
-    url: https://cite-dev.petal.org/api/status
+    url: https://cite.petal-dev.org/api/status
+  - name: Petal Connect Production
+    url: https://connect.petal.org
+  - name: Petal Connect Staging
+    url: https://connect.petal-dev.org
+  - name: Petal Website
+    url: https://www.petal.org    
   - name: Grobid service
     url: https://grobid.petal.org/api/isalive
+  - name: Grafana service
+    url: https://grafana.petal.org    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
-  logoUrl: https://kaleidoglobe-public.s3-us-west-2.amazonaws.com/kaleidoglobe_logo.webp
-  name: KaleidoGlobe API
-  introTitle: "**KaleidoGlobe** is a cloud-native knowledge management solution built for businesses, research labs, and individuals."
-  introMessage: This page displays the live status of the KaleidoGlobe web application
+  logoUrl: https://www.petal.org/letterhead/petal-letterhead-quicksand.webp
+  name: Petal
+  introTitle: "Productivity software for academics"
+  introMessage: This page displays the live status of Petal services
   navbar:
     - title: Uptime
       href: /upptime
