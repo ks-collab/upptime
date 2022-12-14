@@ -42,9 +42,9 @@
     "url": "https://cite.petal-dev.org/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/cite.petal-dev.org.ico",
     "slug": "petal-cite-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.37%",
@@ -54,6 +54,7 @@
     "timeMonth": 1331,
     "timeYear": 2489,
     "dailyMinutesDown": {
+      "2022-12-14": 0,
       "2022-12-07": 22,
       "2022-11-11": 161,
       "2022-11-09": 9,
@@ -107,9 +108,9 @@
     "url": "https://connect.petal-dev.org",
     "icon": "https://icons.duckduckgo.com/ip3/connect.petal-dev.org.ico",
     "slug": "petal-connect-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.71%",
@@ -119,6 +120,7 @@
     "timeMonth": 272,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2022-12-14": 0,
       "2022-12-07": 22,
       "2022-11-11": 118
     }
