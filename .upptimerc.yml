@@ -23,7 +23,19 @@ sites:
     url: https://cite.petal-dev.org/api/citegen/query
     headers:
       - "Content-Type: application/json"
-    body: '{"type":"article","query":"10.1000/182"}'
+    body: '{"type":"article","query":"10.2307/4486062"}'
+  - name: CiteGen Article Search Staging
+    method: POST
+    url: https://cite.petal-dev.org/api/citegen/query
+    headers:
+      - "Content-Type: application/json"
+    body: '{"type":"article","query":"Large Language Models"}'
+  - name: CiteGen Book Search Staging
+    method: POST
+    url: https://cite.petal-dev.org/api/citegen/query
+    headers:
+      - "Content-Type: application/json"
+    body: '{"type":"book","query":"The Art of Computer Programming Knuth"}'
   - name: CiteGen Web Search Staging
     method: POST
     url: https://cite.petal-dev.org/api/citegen/query
