@@ -18,6 +18,24 @@ sites:
     url: https://grobid.petal.org/api/isalive
   - name: Grafana service
     url: https://grafana.petal.org    
+  - name: CiteGen DOI Search Staging
+    method: POST
+    url: https://cite.petal-dev.org/citegen/query
+    headers:
+      - "Content-Type: application/json"
+    body: '{"type":"article","query":"10.1000/182"}'
+  - name: CiteGen Web Search Staging
+    method: POST
+    url: https://cite.petal-dev.org/citegen/query
+    headers:
+      - "Content-Type: application/json"
+    body: '{"type":"web","query":"https://www.petal.org"}'
+  - name: Translation Server
+    method: POST
+    url: https://translation-server.petal.org/search
+    headers:
+      - "Content-Type: text/plain"
+    body: '10.2307/4486062'
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
