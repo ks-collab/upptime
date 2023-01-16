@@ -221,18 +221,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cite.petal-dev.org.ico",
     "slug": "cite-gen-doi-search-staging",
     "status": "down",
-    "uptime": "97.80%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "97.80%",
-    "uptimeYear": "97.80%",
+    "uptime": "96.55%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "96.55%",
+    "uptimeMonth": "96.55%",
+    "uptimeYear": "96.55%",
     "time": 2283,
     "timeDay": 2283,
     "timeWeek": 2283,
     "timeMonth": 2283,
     "timeYear": 2283,
     "dailyMinutesDown": {
-      "2023-01-16": 12
+      "2023-01-16": 19
     }
   },
   {
@@ -259,18 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cite.petal-dev.org.ico",
     "slug": "cite-gen-book-search-staging",
     "status": "down",
-    "uptime": "92.76%",
-    "uptimeDay": "92.76%",
-    "uptimeWeek": "92.76%",
-    "uptimeMonth": "92.76%",
-    "uptimeYear": "92.76%",
+    "uptime": "91.19%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "91.19%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "91.19%",
     "time": 6285,
     "timeDay": 6285,
     "timeWeek": 6285,
     "timeMonth": 6285,
     "timeYear": 6285,
     "dailyMinutesDown": {
-      "2023-01-16": 29
+      "2023-01-16": 36
     }
   },
   {
@@ -296,19 +296,19 @@
     "url": "https://translation-server.petal.org/search",
     "icon": "https://icons.duckduckgo.com/ip3/translation-server.petal.org.ico",
     "slug": "translation-server",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1822,
-    "timeDay": 1822,
-    "timeWeek": 1822,
-    "timeMonth": 1822,
-    "timeYear": 1822,
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
+    "time": 1722,
+    "timeDay": 1722,
+    "timeWeek": 1722,
+    "timeMonth": 1722,
+    "timeYear": 1722,
     "dailyMinutesDown": {
-      "2023-01-16": 0
+      "2023-01-16": 7
     }
   }
 ]
