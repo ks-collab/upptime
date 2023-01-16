@@ -220,19 +220,19 @@
     "url": "https://cite.petal-dev.org/api/citegen/query",
     "icon": "https://icons.duckduckgo.com/ip3/cite.petal-dev.org.ico",
     "slug": "cite-gen-doi-search-staging",
-    "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "97.95%",
-    "uptimeYear": "97.95%",
-    "time": 735,
-    "timeDay": 735,
-    "timeWeek": 735,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "status": "down",
+    "uptime": "97.80%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "97.80%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "97.80%",
+    "time": 2283,
+    "timeDay": 2283,
+    "timeWeek": 2283,
+    "timeMonth": 2283,
+    "timeYear": 2283,
     "dailyMinutesDown": {
-      "2023-01-16": 11
+      "2023-01-16": 12
     }
   },
   {
@@ -259,18 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cite.petal-dev.org.ico",
     "slug": "cite-gen-book-search-staging",
     "status": "down",
-    "uptime": "94.56%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "94.56%",
-    "uptimeYear": "94.56%",
+    "uptime": "92.76%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "92.76%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "92.76%",
     "time": 6285,
     "timeDay": 6285,
     "timeWeek": 6285,
     "timeMonth": 6285,
     "timeYear": 6285,
     "dailyMinutesDown": {
-      "2023-01-16": 21
+      "2023-01-16": 29
     }
   },
   {
@@ -296,17 +296,19 @@
     "url": "https://translation-server.petal.org/search",
     "icon": "https://icons.duckduckgo.com/ip3/translation-server.petal.org.ico",
     "slug": "translation-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 564,
-    "timeWeek": 564,
-    "timeMonth": 564,
-    "timeYear": 564,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1822,
+    "timeDay": 1822,
+    "timeWeek": 1822,
+    "timeMonth": 1822,
+    "timeYear": 1822,
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   }
 ]
