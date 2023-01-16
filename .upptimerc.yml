@@ -20,13 +20,13 @@ sites:
     url: https://grafana.petal.org    
   - name: CiteGen DOI Search Staging
     method: POST
-    url: https://cite.petal-dev.org/citegen/query
+    url: https://cite.petal-dev.org/api/citegen/query
     headers:
       - "Content-Type: application/json"
     body: '{"type":"article","query":"10.1000/182"}'
   - name: CiteGen Web Search Staging
     method: POST
-    url: https://cite.petal-dev.org/citegen/query
+    url: https://cite.petal-dev.org/api/citegen/query
     headers:
       - "Content-Type: application/json"
     body: '{"type":"web","query":"https://www.petal.org"}'
