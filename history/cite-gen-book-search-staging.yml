@@ -1,7 +1,7 @@
 url: https://cite.petal-dev.org/api/citegen/query
-status: up
-code: 200
-responseTime: 149
-lastUpdated: 2023-01-25T23:01:17.137Z
+status: down
+code: 500
+responseTime: 324
+lastUpdated: 2023-01-26T18:11:15.193Z
 startTime: Mon Jan 16 2023 07:52:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
