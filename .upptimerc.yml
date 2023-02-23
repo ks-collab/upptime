@@ -48,6 +48,13 @@ sites:
     headers:
       - "Content-Type: text/plain"
     body: '10.2307/4486062'
+  - name: OpenAI text-davinci-003
+    method: POST
+    url: https://api.openai.com/v1/completions
+    headers:
+      - "Content-Type: application/json"
+      - "Authorization: Bearer $OPENAI_API_KEY"
+    body: '{"model":"text-davinci-003","prompt":"Say this is a test","max_tokens":7,"temperature":0}'
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
