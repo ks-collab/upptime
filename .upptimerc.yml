@@ -55,6 +55,9 @@ sites:
       - "Content-Type: application/json"
       - "Authorization: Bearer $OPENAI_API_KEY"
     body: '{"model":"text-davinci-003","prompt":"Say this is a test","max_tokens":7,"temperature":0}'
+  - name: Jupyter Server
+    method: GET
+    url: http://510k.petal.org:8888/login?next=%2Flab
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
