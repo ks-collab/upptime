@@ -402,7 +402,7 @@
     "timeMonth": 1666,
     "timeYear": 1642,
     "dailyMinutesDown": {
-      "2023-03-26": 711,
+      "2023-03-26": 712,
       "2023-03-25": 1440,
       "2023-03-24": 576,
       "2023-03-20": 12,
@@ -421,18 +421,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/510k.petal.org.ico",
     "slug": "fda-510-k-search",
     "status": "down",
-    "uptime": "20.19%",
-    "uptimeDay": "20.19%",
-    "uptimeWeek": "20.19%",
-    "uptimeMonth": "20.19%",
-    "uptimeYear": "20.19%",
+    "uptime": "11.14%",
+    "uptimeDay": "11.14%",
+    "uptimeWeek": "11.14%",
+    "uptimeMonth": "11.14%",
+    "uptimeYear": "11.14%",
     "time": 1559,
     "timeDay": 1559,
     "timeWeek": 1559,
     "timeMonth": 1559,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2023-03-26": 0
+      "2023-03-26": 1
     }
   }
 ]
