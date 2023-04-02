@@ -1,7 +1,7 @@
 url: https://cite.petal.org/api/status
-status: down
-code: 503
-responseTime: 332
-lastUpdated: 2023-04-02T09:15:53.142Z
+status: up
+code: 200
+responseTime: 294
+lastUpdated: 2023-04-02T09:37:25.037Z
 startTime: Fri May 20 2022 15:17:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
