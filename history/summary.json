@@ -4,17 +4,17 @@
     "url": "https://cite.petal.org/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/cite.petal.org.ico",
     "slug": "petal-cite-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "77.96%",
+    "uptimeDay": "77.95%",
     "uptimeWeek": "87.30%",
-    "uptimeMonth": "97.05%",
+    "uptimeMonth": "97.04%",
     "uptimeYear": "99.66%",
-    "time": 2506,
-    "timeDay": 293,
-    "timeWeek": 316,
-    "timeMonth": 330,
-    "timeYear": 2506,
+    "time": 2501,
+    "timeDay": 289,
+    "timeWeek": 315,
+    "timeMonth": 329,
+    "timeYear": 2501,
     "dailyMinutesDown": {
       "2023-04-05": 279,
       "2023-04-04": 38,
@@ -37,8 +37,7 @@
       "2022-12-02": 6,
       "2022-11-14": 14,
       "2022-11-11": 23,
-      "2022-11-09": 6,
-      "2022-11-07": 13
+      "2022-11-09": 6
     }
   },
   {
