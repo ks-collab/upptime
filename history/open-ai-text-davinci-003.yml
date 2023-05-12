@@ -1,7 +1,7 @@
 url: https://api.openai.com/v1/completions
 status: up
 code: 200
-responseTime: 1939
-lastUpdated: 2023-05-11T23:01:17.287Z
+responseTime: 585
+lastUpdated: 2023-05-12T23:01:29.318Z
 startTime: Thu Feb 23 2023 13:53:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
