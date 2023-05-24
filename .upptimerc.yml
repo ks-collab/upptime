@@ -50,11 +50,11 @@ sites:
     body: '10.2307/4486062'
   - name: OpenAI text-davinci-003
     method: POST
-    url: https://api.openai.com/v1/completions
+    url: https://api.openai.com/v1/chat/completions
     headers:
       - "Content-Type: application/json"
       - "Authorization: Bearer $OPENAI_API_KEY"
-    body: '{"model":"text-davinci-003","prompt":"Say this is a test","max_tokens":7,"temperature":0}'
+    body: '{"model":"gpt-3.5-turbo","messages":[{"role": "user", "content": "Say this is a test"}],"max_tokens":7,"temperature":0}'
   - name: FDA 510(k) search
     method: POST
     url: https://fda-search.petal.org/search
