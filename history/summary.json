@@ -474,7 +474,7 @@
     "timeMonth": 295,
     "timeYear": 813,
     "dailyMinutesDown": {
-      "2023-06-08": 811,
+      "2023-06-08": 818,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
@@ -561,19 +561,19 @@
     "url": "https://app.gpt-trainer.com/api/",
     "icon": "https://icons.duckduckgo.com/ip3/app.gpt-trainer.com.ico",
     "slug": "app-gpt-trainer-com-api",
-    "status": "down",
-    "uptime": "99.08%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
-    "time": 278,
-    "timeDay": 278,
-    "timeWeek": 278,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "status": "up",
+    "uptime": "98.57%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
+    "time": 273,
+    "timeDay": 273,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {
-      "2023-06-08": 12
+      "2023-06-08": 19
     }
   }
 ]
