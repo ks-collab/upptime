@@ -1,7 +1,7 @@
 url: https://app.gpt-trainer.com/api/
-status: down
-code: 503
-responseTime: 246
-lastUpdated: 2023-06-16T03:10:53.494Z
+status: up
+code: 200
+responseTime: 281
+lastUpdated: 2023-06-16T03:35:16.355Z
 startTime: Wed Jun 07 2023 15:35:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
