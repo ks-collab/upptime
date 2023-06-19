@@ -64,9 +64,9 @@ sites:
   - name: gpt-trainer.com
     method: GET
     url: https://gpt-trainer.com
-  - name: app.gpt-trainer.com/api/
+  - name: app.gpt-trainer.com/api/status
     method: GET
-    url: https://app.gpt-trainer.com/api/
+    url: https://app.gpt-trainer.com/api/status
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
