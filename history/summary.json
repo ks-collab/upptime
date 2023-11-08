@@ -190,7 +190,7 @@
     "timeMonth": 211,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2023-11-08": 1200,
+      "2023-11-08": 1206,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
@@ -617,19 +617,19 @@
     "url": "https://api.openai.com/v1/chat/completions",
     "icon": "https://icons.duckduckgo.com/ip3/api.openai.com.ico",
     "slug": "open-ai-gpt-3-5-turbo",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "93.01%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 489,
-    "timeDay": 707,
-    "timeWeek": 569,
+    "timeDay": 655,
+    "timeWeek": 562,
     "timeMonth": 489,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2023-11-08": 100
+      "2023-11-08": 105
     }
   },
   {
@@ -637,19 +637,19 @@
     "url": "https://api.openai.com/v1/chat/completions",
     "icon": "https://icons.duckduckgo.com/ip3/api.openai.com.ico",
     "slug": "open-ai-gpt-4",
-    "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "93.75%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 1287,
-    "timeDay": 2246,
-    "timeWeek": 1475,
-    "timeMonth": 1287,
-    "timeYear": 1287,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 1286,
+    "timeDay": 2084,
+    "timeWeek": 1459,
+    "timeMonth": 1286,
+    "timeYear": 1286,
     "dailyMinutesDown": {
-      "2023-11-08": 90
+      "2023-11-08": 95
     }
   },
   {
