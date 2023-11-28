@@ -1,7 +1,7 @@
 url: https://translation-server.petal.org/search
-status: up
-code: 200
-responseTime: 959
-lastUpdated: 2023-11-27T23:01:14.478Z
+status: down
+code: 501
+responseTime: 13426
+lastUpdated: 2023-11-28T03:38:28.055Z
 startTime: 2023-01-16T05:37:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
