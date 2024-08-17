@@ -1,7 +1,7 @@
 url: https://api.openai.com/v1/chat/completions
 status: up
 code: 200
-responseTime: 923
-lastUpdated: 2024-08-16T23:01:27.484Z
+responseTime: 472
+lastUpdated: 2024-08-17T23:01:14.316Z
 startTime: 2023-10-20T03:33:58.937Z
 generator: Upptime <https://github.com/upptime/upptime>
