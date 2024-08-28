@@ -77,6 +77,9 @@ sites:
   - name: voice.gpt-trainer.com
     method: GET
     url: https://app.gpt-trainer.com/api/status
+  - name: clinical trials search
+    method: GET
+    url: http://52.39.84.167/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
