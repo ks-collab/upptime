@@ -146,11 +146,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.petal.org.ico",
     "slug": "petal-website",
     "status": "up",
-    "uptime": "82.90%",
+    "uptime": "82.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.63%",
+    "uptimeYear": "87.64%",
     "time": 232,
     "timeDay": 372,
     "timeWeek": 230,
@@ -205,8 +205,7 @@
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
-      "2023-10-26": 1440,
-      "2023-10-25": 1440
+      "2023-10-26": 1440
     }
   },
   {
@@ -401,8 +400,8 @@
     "slug": "cite-gen-book-search-staging",
     "status": "up",
     "uptime": "96.10%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "2.47%",
+    "uptimeWeek": "0.35%",
     "uptimeMonth": "54.79%",
     "uptimeYear": "93.53%",
     "time": 620,
@@ -554,8 +553,7 @@
       "2023-11-09": 22,
       "2023-11-01": 100,
       "2023-10-31": 6,
-      "2023-10-26": 13,
-      "2023-10-25": 6
+      "2023-10-26": 13
     }
   },
   {
